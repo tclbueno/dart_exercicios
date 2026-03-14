@@ -1,4 +1,4 @@
-import 'package:exercicio01_dart/exercicio01_dart.dart' as exercicio01_dart;
+/*import 'package:exercicio01_dart/exercicio01_dart.dart' as exercicio01_dart;
 
 void main(){
 //Declaração de variaveis 
@@ -20,4 +20,4 @@ print("Local é String? ${local is String}");
 print("Patrimonio é int? ${patrimonio is int}");
 print("Patrimonio é String? ${patrimonio is String}");
 
-}
+}*/
